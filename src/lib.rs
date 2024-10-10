@@ -1,0 +1,2 @@
+#![allow(clippy::cargo_common_metadata)]
+//! An assortment of lock free data structures. Lock freedom gurantees that at least one thread accessing the data structure can make forward progress at any point.
